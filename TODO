@@ -1,3 +1,0 @@
-* User can change if user is or not admin on project where he is admin
-* Can delete a user from project where we are admin ( and send email to user about this information )
-* Add a digest system to all error. Not one email by error, but one email by day. ( cron job ? )
